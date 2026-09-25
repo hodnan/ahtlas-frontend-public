@@ -1,5 +1,9 @@
 # Ahtlas — Frontend
 
+<p align="center">
+  <img src="docs/screenshots/logo.png" alt="Ahtlas Web Application" width="420">
+</p>
+
 O Ahtlas é uma plataforma corporativa de gestão interna que desenvolvi entre 2021 e 2025. Ela reúne, em uma única aplicação web, módulos de indicadores, remuneração variável, acompanhamento de equipes, relatórios e rotinas operacionais.
 
 Este repositório tem a SPA em Vue 3. A API (Laravel 11) está no repositório `ahtlas-backend`, com a descrição completa da arquitetura, dos módulos e dos destaques técnicos.
@@ -18,6 +22,34 @@ Este repositório tem a SPA em Vue 3. A API (Laravel 11) está no repositório `
 | Gráficos | Chart.js via vue-chartjs |
 | Formulários | VeeValidate |
 | Build e testes | Vite, Vitest, ESLint + Prettier |
+
+## Telas
+
+_Nas capturas, nomes de pessoas, rostos e dados do cliente foram borrados._
+
+**Hora Hora**: boletim intradiário com um card por setor (dimensionado × realizado de nível de serviço, volume, TMA, logins e pausas) e filtros de data, gestor e setor. O seletor de gestor mostra a foto de cada colaborador.
+
+![Boletim Hora Hora](docs/screenshots/hora-hora.png)
+
+**Intraday**: detalhe de um setor, com gráfico por intervalo de 30 minutos e tabela com os indicadores de cada faixa.
+
+![Detalhe intraday de um setor](docs/screenshots/intraday.png)
+
+**Reports**: catálogo de relatórios com busca, filtros por tipo e status, grupo de acesso e donos de cada relatório.
+
+![Catálogo de relatórios](docs/screenshots/reports.png)
+
+**Termos de RV**: lista de termos de remuneração variável do mês, com versão no nome do termo e status de aprovação.
+
+![Lista de termos de RV](docs/screenshots/rv-termos.png)
+
+**Edição de termo**: montagem das regras de premiação em quatro blocos: cesta de indicadores, aceleradores, deflatores e eliminatórios.
+
+![Edição de termo de RV](docs/screenshots/rv-editar-termo.png)
+
+**Informação do termo**: PDF gerado pelo backend ao lado dos metadados da aprovação (usuário, cargo, navegador e sistema operacional), com opções de simular e editar.
+
+![PDF do termo e metadados de aprovação](docs/screenshots/rv-termo-pdf.png)
 
 ## Arquitetura
 
