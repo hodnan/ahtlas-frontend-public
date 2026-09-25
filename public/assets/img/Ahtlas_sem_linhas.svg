@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="210mm"
+   height="210mm"
+   version="1.1"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 21000 21000"
+   id="svg10"
+   sodipodi:docname="Ahtlas_sem_linhas.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata14"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview12"
+   showgrid="false"
+   inkscape:zoom="0.2102413"
+   inkscape:cx="396.85039"
+   inkscape:cy="561.25984"
+   inkscape:window-x="1358"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Camada_x0020_1" />
+ <defs
+   id="defs4"><linearGradient
+   inkscape:collect="always"
+   id="linearGradient825-7"><stop
+     style="stop-color:#692fae;stop-opacity:1"
+     offset="0"
+     id="stop821" /><stop
+     id="stop836"
+     offset="0.3496725"
+     style="stop-color:#5261a8;stop-opacity:0.78431374" /><stop
+     style="stop-color:#2fac9f;stop-opacity:0.39215687"
+     offset="1"
+     id="stop838" /></linearGradient>
+  <style
+   type="text/css"
+   id="style2">
+   <![CDATA[
+    .str0 {stroke:white;stroke-width:139;stroke-miterlimit:22.9256}
+    .fil0 {fill:white}
+   ]]>
+  </style>
+ <linearGradient
+   inkscape:collect="always"
+   xlink:href="#linearGradient825-7"
+   id="linearGradient834"
+   x1="9192.6504"
+   y1="9507.8408"
+   x2="15694.683"
+   y2="21303.572"
+   gradientUnits="userSpaceOnUse" /></defs>
+ <g
+   id="Camada_x0020_1"
+   style="fill:#0000ff"
+   transform="matrix(1.7021143,0,0,1.5722456,-8096.0951,-12196.542)">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  <path
+   class="fil0 str0"
+   d="M 5237.3288,21091.336 C 5719.5388,20095.806 10989.429,8081.25 10989.429,8081.25 l 5683.2,13010.086 c -1802.9,-2435.063 -3137.8,-6321.18 -5683.2,-6453.711 -3271.4002,576.838 -3947.4002,4171.53 -5752.1002,6453.711 z"
+   id="path7"
+   style="fill:url(#linearGradient834);fill-opacity:1;stroke:none;stroke-width:139.86315918;stroke-miterlimit:22.92560005"
+   inkscape:connector-curvature="0" />
+ </g>
+</svg>

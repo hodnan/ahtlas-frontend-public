@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="143mm"
+   height="140mm"
+   viewBox="0 0 143 140"
+   version="1.1"
+   id="svg2557"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="start.svg">
+  <defs
+     id="defs2551" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-64.285714"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1358"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2554">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-157)">
+    <path
+       style="clip-rule:evenodd;fill:#c7c7e5;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       d="M 10.915081,294.96347 71.292462,161.5022 133.28218,293.79624 c 0,0 -31.9342,-63.76403 -61.394828,-63.57938 -29.644996,0.1858 -60.972271,64.74661 -60.972271,64.74661 z"
+       id="path2582"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccac" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2584"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;clip-rule:evenodd;fill:#c9cfe4;fill-opacity:1;fill-rule:evenodd;stroke:none;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(0.57666633,0,0,0.57666633,600.66474,-41.995171)"><flowRegion
+         id="flowRegion2586"
+         style="fill:#c9cfe4;fill-opacity:1"><rect
+           id="rect2588"
+           width="260.21234"
+           height="131.04219"
+           x="-979.07239"
+           y="515.98151"
+           style="fill:#c9cfe4;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara2590">Ahtlas</flowPara></flowRoot>    <circle
+       style="clip-rule:evenodd;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#e3e3fb;stroke-width:2.72453284;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       id="path866-1-13"
+       cx="71.815468"
+       cy="227.45238"
+       r="67.53978" />
+  </g>
+</svg>

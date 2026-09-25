@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" role="img" aria-label="Ahtlas">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#692fae"/>
+      <stop offset="1" stop-color="#467aa5"/>
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#bg)"/>
+  <text x="960" y="560" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="160" font-weight="700" fill="#ffffff">Ahtlas</text>
+  <text x="960" y="660" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="48" fill="#ffffff" fill-opacity="0.8">Plataforma de gestão interna</text>
+</svg>

@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Martel:wght@400;700&display=swap');
+
+html {
+  overflow-y: auto !important;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.v-field__field {
+  font-size: 0.8rem !important;
+}
+
+.v-data-table__td {
+  font-size: 0.8rem !important;
+}
+.overflow-auto {
+  scrollbar-width: thin;
+  scrollbar-color: #8b8778 transparent;
+}
+
+.overflow-auto::-webkit-scrollbar {
+  width: 4px;
+  background: tra;
+}
+
+.overflow-auto::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.1);
+}
+
+.overflow-auto::-webkit-scrollbar-thumb {
+  border-radius: 4px;
+  background: #8b8778;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #8b8778 transparent;
+}
+
+*::-webkit-scrollbar {
+  width: 7px;
+  background: transparent;
+}
+
+*::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.1);
+}
+
+*::-webkit-scrollbar-thumb {
+  border-radius: 12px;
+  background: #8b8778;
+}
+
+.inputH40 .v-field__input {
+  max-height: 38px !important;
+  overflow: hidden;
+}
+.inputCenter .v-field__input {
+  text-align: center !important;
+}
+
+/* Remove as setas de incremento e decremento */
+input[type='number']::-webkit-outer-spin-button,
+input[type='number']::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type='number'] {
+  -moz-appearance: textfield; /* Firefox */
+}
+
+.basicInput {
+  height: 25px !important;
+  outline: none !important;
+}
+.basicInput:focus {
+  border-width: 2px !important;
+}
